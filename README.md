@@ -5,7 +5,8 @@ This was an EDA done using Jupyter Notebook on a dataset for Chocolate Imports i
   Code used pandas libraries
   
  ### Table of Contents
-  1. Chocolate Jupyter Notebook file
-  2. EDA.dox file that gives a description of the data set and EDA findings
+  1. The souce file for the data is the chocs.csv file
+  2. Chocolate Jupyter Notebook file
+  3. EDA.dox file that gives a description of the data set and EDA findings
   
   
