@@ -2,7 +2,7 @@
 ## EDA for Chocolate Imports into South Africa
 This was an EDA done using Jupyter Notebook on a dataset for Chocolate Imports into South Africa
 * Code Used *
-  Code used pandas libraries
+  Google Collabratory, Pandas, Seaborn, Matplotlib and Numpy libraries
   
  ### Table of Contents
   1. The souce file for the data is the chocs.csv file
