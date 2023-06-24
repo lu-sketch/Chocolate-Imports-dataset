@@ -1,4 +1,4 @@
-# EDA Analysis for Chocolate-Imports-dataset
+# EDA Analysis for Chocolate-Imports
 ## EDA for Chocolate Imports into South Africa
 This was an EDA done using Jupyter Notebook on a dataset for Chocolate Imports into South Africa
 * Code Used *
